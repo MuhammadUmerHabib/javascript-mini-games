@@ -2,7 +2,7 @@
 
 A collection of two interactive browser-based games built with **Vanilla JavaScript**, **HTML5**, and **CSS3**. Both games are accessible from a single landing page.
 
-🔗 **Live Demo:** [https://YOUR-USERNAME.github.io/javascript-mini-games/](https://YOUR-USERNAME.github.io/javascript-mini-games/)
+🔗 **Live Demo:** https://muhammadumerhabib.github.io/javascript-mini-games
 
 ---
 
